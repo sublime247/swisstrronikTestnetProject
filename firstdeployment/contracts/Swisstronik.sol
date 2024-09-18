@@ -68,3 +68,5 @@ endcampaign.amountRaised=0;
 
     }
 
+
+// verification: npx hardhat verify 0x32a300274Bb6304006618fb821691fAaC7109934 --network swisstronik 
