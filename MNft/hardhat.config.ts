@@ -17,3 +17,7 @@ const config: HardhatUserConfig = {
 };
 
 export default config;
+// token address
+// 0x4F8a3f71A797Cc8dE02542Ab9951a79c9EFCE33c
+// tx hash
+// 0x309da38b63080167ab5e350b96fa604c8a60b1e111972344cf3367b037ee23cd
